@@ -1,11 +1,10 @@
-# Why Python? 
+# Why Python?
 
 I always wanted to do it, and all the other programmers parental units let them do it so I want to as well. Also Python is like SUPER flexible for random ideas I like between this JS, and like one major OO Language, and you've got every Full-Stack devs basic toolkit, and some of my tools need some grease.
 
 ## Python Project Directory
 
 - [P1: License Hex](#p1:-license-to-hex)
-
 
 ### P1: License to Hex
 
