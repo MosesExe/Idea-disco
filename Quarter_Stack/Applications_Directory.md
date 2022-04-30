@@ -3,6 +3,7 @@
 It's my insane way of saying make a local web application with the idea that it'll show off my full-stack skills while keeping it in a local directory.
 
 [P1: Insurance Website](#p1-medical-insurance-website)
+
 [P2: DnD Character Builder](#p1:-dnd-character-builder)
 
 ### P1: Medical Insurance Website
