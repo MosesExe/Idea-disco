@@ -4,7 +4,7 @@ I always wanted to do it, and all the other programmers parental units let them 
 
 ## Python Project Directory
 
-- [P1: License Hex](#p1:-license-to-hex)
+1. [P1: License Hex](#p1:-license-to-hex)
 
 ### P1: License to Hex
 
